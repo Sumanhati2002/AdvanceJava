@@ -1,0 +1,18 @@
+
+{
+java:S2095'"HUse try-with-resources or close this "Connection" in a "finally" clause.(şŠÎ¸úÿÿÿÿ8ÂÅ×0HƒRBLOCKERZBUG
+‹
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ8ãÜÀ‰×0HRMINORZVULNERABILITY
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÂÅ×0H€RMAJORZ
+CODE_SMELL
+e
+java:S4925!"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8àæ×0H‚RMAJORZ
+CODE_SMELL
+‚
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ÖûÌÿÿÿÿÿ8«Ï½×0HşRBLOCKERZBUG
+
+java:S1192"FDefine a constant instead of duplicating this literal "</h2>" 3 times.(Ü÷‹Ëşÿÿÿÿ8„ºİ‰×0HúRCRITICALZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(§œ×ä8ãÜÀ‰×0HÿRMAJORZ
+CODE_SMELL

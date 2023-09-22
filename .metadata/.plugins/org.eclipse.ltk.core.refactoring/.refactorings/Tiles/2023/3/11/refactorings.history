@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Tiles/src/main/webapp/WEB-INF/jsp/homepage.jsp&apos; to &apos;home.jsp&apos;" description="Rename resource &apos;homepage.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/jsp/homepage.jsp" name="home.jsp" stamp="1678791155797" updateReferences="true"/>
+</session>

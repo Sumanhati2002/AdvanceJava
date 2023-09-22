@@ -1,0 +1,17 @@
+
+h
+java:S1191"5Use classes from the Java API instead of Sun classes.(­¨››8Ÿ¨ˆ×0HRMAJORZ
+CODE_SMELL
+s
+java:S1128"@Remove this unused import 'com.sun.net.httpserver.Filter.Chain'.(­¨››8Ÿ¨ˆ×0HRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ÿ¨ˆ×0HŸRINFOZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(æñ™ùÿÿÿÿ8Ÿ¨ˆ×0H RMAJORZ
+CODE_SMELL
+i
+java:S1135("2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ÿ¨ˆ×0H¡RINFOZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(§Ûá‹8Ÿ¨ˆ×0H¢RMAJORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹è·øHÙRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8õÚµ¥Ú0HôRMINORZ
+CODE_SMELL
+g
+java:S3740-"/Provide the parametrized type for this generic.(¸Õ’ôùÿÿÿÿ8áòÒ¦Ú0H‹RMAJORZ
+CODE_SMELL
+k	java:S106E"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8áòÒ¦Ú0HRMAJORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(çÑ»ûÿÿÿÿ8ş‰Ë¥Ú0HÂRMAJORZ
+CODE_SMELL
+s	java:S1258"<This block of commented-out lines of code should be removed.(üÌı•úÿÿÿÿ8…Éô¦Ú0HÈRMAJORZ
+CODE_SMELL
+j	java:S1063"9Replace this use of System.out or System.err by a logger.(İŞój8¤‡ñ¦Ú0H¶RMAJORZ
+CODE_SMELL
+`
+java:S1874B"-Remove this use of "Query"; it is deprecated.(ëÄıÒ8áòÒ¦Ú0HŒRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¹“ê»ıÿÿÿÿ8ş‰Ë¥Ú0H¶RMAJORZ
+CODE_SMELL
+b
+java:S3740B"/Provide the parametrized type for this generic.(ëÄıÒ8ş‰Ë¥Ú0H´RMAJORZ
+CODE_SMELL

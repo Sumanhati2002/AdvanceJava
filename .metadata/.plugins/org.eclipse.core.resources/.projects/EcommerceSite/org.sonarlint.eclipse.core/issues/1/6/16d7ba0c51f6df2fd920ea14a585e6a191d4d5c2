@@ -1,0 +1,10 @@
+
+e
+java:S1874,"-Remove this use of "Query"; it is deprecated.(ù•—ùÿÿÿÿ8ŠÓÃ©â0Há^RMINORZ
+CODE_SMELL
+g
+java:S3740,"/Provide the parametrized type for this generic.(ù•—ùÿÿÿÿ8ŠÓÃ©â0Hà^RMAJORZ
+CODE_SMELL
+‘
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "i".(®íËæıÿÿÿÿ8àı±‘á0Hª\RMINORZ
+CODE_SMELL

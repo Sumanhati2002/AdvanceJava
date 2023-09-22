@@ -1,0 +1,18 @@
+
+k
+java:S1128
+"8Remove this unused import 'org.hibernate.mapping.Array'.(¼ëÁÝ8Î…É­Ú0HáRMINORZ
+CODE_SMELL
+s	java:S125;"<This block of commented-out lines of code should be removed.(°¶›Éüÿÿÿÿ8é°§¯Ú0HîRMAJORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(®Í²¿úÿÿÿÿ8íà»¬Ú0H¡RMAJORZ
+CODE_SMELL
+e
+java:S1874*"-Remove this use of "Query"; it is deprecated.(Â¡çúÿÿÿÿ8é°§¯Ú0HíRMINORZ
+CODE_SMELL
+g
+java:S3740*"/Provide the parametrized type for this generic.(Â¡çúÿÿÿÿ8é°§¯Ú0HëRMAJORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'com.mysql.cj.Query'.(ûùÆ«ùÿÿÿÿ8é°§¯Ú0HìRMINORZ
+CODE_SMELL

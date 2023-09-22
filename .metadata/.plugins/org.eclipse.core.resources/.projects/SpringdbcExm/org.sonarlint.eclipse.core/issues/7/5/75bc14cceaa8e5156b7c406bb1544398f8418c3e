@@ -1,0 +1,11 @@
+
+å
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "i".(ç≠ö”8Ñﬂ≥ö‹0H°)RMINORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶À∞·H°(RMINORZ
+CODE_SMELL
+å
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "j".(®≥˚Ä8¸”€ö‹0H©)RMINORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(ê»Áÿ˚ˇˇˇˇ8“ã≤ú‹0H’)RMAJORZ
+CODE_SMELL

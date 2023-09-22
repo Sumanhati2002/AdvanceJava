@@ -1,0 +1,13 @@
+
+m
+java:S1854"5Remove this useless assignment to local variable "p".(¥•ŸÅÿÿÿÿÿ8Ûì•œÜ0H³)RMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "p" local variable.(¥•ŸÅÿÿÿÿÿ8Ûì•œÜ0Hº)RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ž½Ž¦ÿÿÿÿÿ8¾—ÊšÜ0H¤)RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(…’ÖÙüÿÿÿÿ8Ûì•œÜ0H´)RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€™»€HÛ(RMINORZ
+CODE_SMELL

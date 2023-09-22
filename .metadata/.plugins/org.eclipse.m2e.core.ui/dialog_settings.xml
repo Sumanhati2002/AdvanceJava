@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Annotation"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Annotation"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\tech\sanityio\SpringMvc\src\main\webapp\WEB-INF\spring-servlet.xml"/>
+			<item value="C:\Users\tech\sanityio\EcommerceSite\src\main\webapp\WEB-INF\views\womenproduct.jsp"/>
+			<item value="C:\Users\tech\sanityio\EcommerceSite\src\main\java\com\spring\controller\HomeController.java"/>
+			<item value="C:\Users\tech\sanityio\SpringEpl\src\main\java\com\spring\epl\ContactController.java"/>
+			<item value="C:\Users\tech\sanityio\SpringMvcExample\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="C:\Users\tech\sanityio\SpringMvcExample\pom.xml"/>
+			<item value="C:\Users\tech\sanityio\SpringMvcExample\src\main\java"/>
+			<item value="E:\springorm\SpringOrm\src\main\java\com\spring\orm\dao\StudentDao.java"/>
+			<item value="E:\springorm"/>
+			<item value="E:\springjdbc"/>
+			<item value="C:\Users\tech\sanityio\SpringExample\src\main\java\com\spring\spel\Student.java"/>
+			<item value="C:\Users\tech\sanityio\HqlProject\src\main\java\com\cascade\Question.java"/>
+			<item value="C:\Users\tech\sanityio\ManyMap\src\main\java\com\onetomany\ManyMap\App.java"/>
+			<item value="C:\Users\tech\sanityio\MyEmbedded\src\main\java\com\embedded\MyEmbedded\Certificate.java"/>
+			<item value="C:\Users\tech\sanityio\MyHibernate\src\main\java\com\firsthibernate\MyHibernate\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.tiles"/>
+			<item value="com.spring.security"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring.tiles"/>
+			<item value="com.spring.security"/>
+		</list>
+		<list key="artifactId">
+			<item value="Tiles"/>
+			<item value="SpringSecurity"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

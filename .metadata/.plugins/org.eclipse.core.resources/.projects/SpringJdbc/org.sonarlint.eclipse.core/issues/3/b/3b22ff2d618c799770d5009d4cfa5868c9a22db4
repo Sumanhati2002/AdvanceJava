@@ -1,0 +1,9 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(öÈ‘äúÿÿÿÿH–(RMAJORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "result" local variable.(Ì¾´Šúÿÿÿÿ8›ºöúÛ0H—(RMINORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "result".(Ì¾´Šúÿÿÿÿ8›ºöúÛ0H˜(RMAJORZ
+CODE_SMELL

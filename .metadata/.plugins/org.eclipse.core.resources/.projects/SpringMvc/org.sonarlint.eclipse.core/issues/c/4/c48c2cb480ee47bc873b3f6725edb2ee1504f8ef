@@ -1,0 +1,7 @@
+
+i
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8¶¿äÖí0H¨rRMINORZ
+CODE_SMELL
+‘
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "i".(ÔŞ­óÿÿÿÿÿ8€é¤êİ0H§rRMINORZ
+CODE_SMELL

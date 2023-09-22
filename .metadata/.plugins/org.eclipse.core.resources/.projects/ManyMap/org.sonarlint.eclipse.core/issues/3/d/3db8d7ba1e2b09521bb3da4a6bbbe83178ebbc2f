@@ -1,0 +1,12 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÿÅ–úÿÿÿÿHÚRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8Ü»ÿÿÙ0HÝRINFOZ
+CODE_SMELL
+j
+java:S1128"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8Ü»ÿÿÙ0HÜRMINORZ
+CODE_SMELL
+H
+java:S1700"Rename field "answer"(åÿÑÌ8Ü»ÿÿÙ0HÛRMAJORZ
+CODE_SMELL

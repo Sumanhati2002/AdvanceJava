@@ -1,0 +1,37 @@
+
+f
+java:S6212"/Declare this local variable with "var" instead.(öÊ¼”ùÿÿÿÿ8€šêáÕ0HûRINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(ñú›µ8€šêáÕ0HüRINFOZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¡¸Ãë8€šêáÕ0HıRMAJORZ
+CODE_SMELL
+f
+java:S6212"/Declare this local variable with "var" instead.(æ¥•€ıÿÿÿÿ8ö€¨âÕ0HşRINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(”ÇˆÈ8ö€¨âÕ0HÿRINFOZ
+CODE_SMELL
+Z
+java:S6212"/Declare this local variable with "var" instead.(‡û¬¯H€RINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(æÁƒŞ8ú¢ñáÕ0HRINFOZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(ıÙá¹úÿÿÿÿ8ú¢ñáÕ0H‚RMAJORZ
+CODE_SMELL
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(æÁƒŞ8€šêáÕ0HƒRBLOCKERZBUG
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ö€¨âÕ0H„RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÌ¶ìÿÿÿÿÿ8ú¢ñáÕ0H…RMAJORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.mysql.cj.xdevapi.Statement'.(Î…¿Šøÿÿÿÿ8ö€¨âÕ0H†RMINORZ
+CODE_SMELL
+u
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(”ÇˆÈ8ö€¨âÕ0H‡RBLOCKERZBUG
+^
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHˆRMAJORZ
+CODE_SMELL

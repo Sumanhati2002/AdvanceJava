@@ -1,0 +1,21 @@
+
+f
+java:S6212"/Declare this local variable with "var" instead.(ή‡ο¥ύÿÿÿÿ8ο»Σ“Υ0Hώ2RINFOZ
+CODE_SMELL
+—
+java:S1989%"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(γμΔ8ο»Σ“Υ0Hÿ2RMINORZVULNERABILITY
+
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(λφστ8ο»Σ“Υ0H€3RMINORZVULNERABILITY
+”
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ή‡ο¥ύÿÿÿÿ8ο»Σ“Υ0H3RMINORZVULNERABILITY
+‹
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(οτ†ϊÿÿÿÿ8ƒΥ”“Υ0H‚3RMINORZVULNERABILITY
+m
+java:S1161":Add the "@Override" annotation above this method signature(§Χδ8ƒΥ”“Υ0Hƒ3RMAJORZ
+CODE_SMELL
+a
+java:S6212$"/Declare this local variable with "var" instead.(ύ„8ο»Σ“Υ0H„3RINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(λφστ8ο»Σ“Υ0H…3RINFOZ
+CODE_SMELL

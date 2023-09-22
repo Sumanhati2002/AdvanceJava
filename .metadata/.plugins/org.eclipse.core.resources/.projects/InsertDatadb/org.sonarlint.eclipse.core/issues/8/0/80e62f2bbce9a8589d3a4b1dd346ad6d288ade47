@@ -1,0 +1,60 @@
+
+a
+java:S62123"/Declare this local variable with "var" instead.(«ªÄÁ8ß ¾åÕ0HÀRINFOZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(šô‚·8óööãÕ0H RMAJORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.mysql.cj.xdevapi.Statement'.(Î…¿Šøÿÿÿÿ8™€ÑäÕ0HªRMINORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8óööãÕ0H˜RMAJORZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(ñú›µ8óööãÕ0HšRINFOZ
+CODE_SMELL
+a
+java:S6212."/Declare this local variable with "var" instead.(ÔŒ‡8ß ¾åÕ0H¾RINFOZ
+CODE_SMELL
+f
+java:S6212"/Declare this local variable with "var" instead.(İ”±ìúÿÿÿÿ8óööãÕ0HRINFOZ
+CODE_SMELL
+{
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(şŠÎ¸úÿÿÿÿ8óööãÕ0H”RBLOCKERZBUG
+a
+java:S6212"/Declare this local variable with "var" instead.(éÒ8óööãÕ0HRINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(‡û¬¯8óööãÕ0H™RINFOZ
+CODE_SMELL
+j	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒŠÚn8óööãÕ0H³RMAJORZ
+CODE_SMELL
+j
+java:S1128
+"8Remove this unused import 'com.mysql.cj.xdevapi.Result'.(ÏÖ¦	8™€ÑäÕ0H©RMINORZ
+CODE_SMELL
+f
+java:S62122"/Declare this local variable with "var" instead.(™âœüøÿÿÿÿ8ß ¾åÕ0H¿RINFOZ
+CODE_SMELL
+p	java:S106?"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ß ¾åÕ0HÂRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(ï¿“Î8óööãÕ0HŸRMAJORZ
+CODE_SMELL
+a
+java:S6212$"/Declare this local variable with "var" instead.(«Îğ£8óööãÕ0H¡RINFOZ
+CODE_SMELL
+f
+java:S6212"/Declare this local variable with "var" instead.(öÊ¼”ùÿÿÿÿ8óööãÕ0H›RINFOZ
+CODE_SMELL
+f
+java:S62124"/Declare this local variable with "var" instead.(Œ´Â­øÿÿÿÿ8ß ¾åÕ0HÁRINFOZ
+CODE_SMELL
+‚
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§ÖûÌÿÿÿÿÿ8óööãÕ0H•RBLOCKERZBUG
+f
+java:S6212"/Declare this local variable with "var" instead.(şŠÎ¸úÿÿÿÿ8óööãÕ0HœRINFOZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(ÀÃÈ×8óööãÕ0H£RMAJORZ
+CODE_SMELL
+u
+java:S2095."GUse try-with-resources or close this "Statement" in a "finally" clause.(ÔŒ‡8ß ¾åÕ0H½RBLOCKERZBUG

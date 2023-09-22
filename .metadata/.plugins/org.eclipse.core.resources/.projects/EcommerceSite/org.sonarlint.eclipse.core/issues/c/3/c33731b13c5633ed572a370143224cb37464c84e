@@ -1,0 +1,13 @@
+
+l
+java:S1128"4Remove this unused import 'com.spring.user.Product'.(úÛ³ÿÿÿÿÿ8Æş¹µâ0H aRMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'com.mysql.cj.Session'.(ÃÈ¯–8Øõ©¶â0HİaRMINORZ
+CODE_SMELL
+q
+java:S1128"9Remove this unused import 'org.hibernate.SessionFactory'.(ñ¦«¬şÿÿÿÿ8Øõ©¶â0HÛaRMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'org.hibernate.Query'.(ıÜßùÿÿÿÿ8Øõ©¶â0HÜaRMINORZ
+CODE_SMELL

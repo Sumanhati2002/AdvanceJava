@@ -1,0 +1,15 @@
+
+l
+java:S1128"9Remove this unused import 'javax.xml.bind.JAXBException'.(ª¥åå8Ê±¨¹á0HÓpRMINORZ
+CODE_SMELL
+€
+java:S1128"MRemove this unused import 'com.sun.xml.bind.v2.runtime.reflect.ListIterator'.(—€Ë8Ê±¨¹á0HÕpRMINORZ
+CODE_SMELL
+m
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8Ê±¨¹á0HÑpRMINORZ
+CODE_SMELL
+j	java:S106%"9Replace this use of System.out or System.err by a logger.(×—ì@8î”Ï‘á0HÔpRMAJORZ
+CODE_SMELL
+h
+java:S1191"5Use classes from the Java API instead of Sun classes.(—€Ë8Îé«·á0HÒpRMAJORZ
+CODE_SMELL

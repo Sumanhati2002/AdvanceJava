@@ -1,0 +1,29 @@
+package com.spring.epl;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+@Controller
+public class ContactController {
+
+	@RequestMapping("/contact")
+	public String show() {
+		
+		return "contact";
+	}
+	
+	@RequestMapping(path = "processform",method = RequestMethod.POST)
+	public String handler(HttpServletRequest request) {
+		
+		//fetch tahe data
+		String email=request.getParameter("email");
+		String name=request.getParameter("name");
+		String pw=request.getParameter("password");
+		
+		System.out.println(email+name+pw);
+		return "";
+	}
+}

@@ -1,0 +1,10 @@
+
+h
+java:S1191"5Use classes from the Java API instead of Sun classes.(­¨››8ÚùÍ™Ö0HÖ	RMAJORZ
+CODE_SMELL
+·
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öýœÉ8ÚùÍ™Ö0H×	RCRITICALZ
+CODE_SMELL
+O
+java:S1116"Remove this empty statement.(öýœÉ8ÚùÍ™Ö0HØ	RMINORZ
+CODE_SMELL

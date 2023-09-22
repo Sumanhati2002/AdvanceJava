@@ -1,0 +1,16 @@
+
+n
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…H„BRMINORZ
+CODE_SMELL
+v
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¨‰¥ƒH…BRMINORZ
+CODE_SMELL
+o
+java:S1128"7Remove this unused import 'org.apache.tomcat.jni.User'.(Û»™¨ùÿÿÿÿ8®ÙþœÝ0H‡BRMINORZ
+CODE_SMELL
+s	java:S125;"<This block of commented-out lines of code should be removed.(†ÔÄ¼ýÿÿÿÿ8£¿·Ý0HˆBRMAJORZ
+CODE_SMELL
+x
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ÿß”(8Ôƒé¢Ý0H”BRCRITICALZVULNERABILITY
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Û¤á²ûÿÿÿÿ8Ó“Ý0H•BRMAJORZ
+CODE_SMELL

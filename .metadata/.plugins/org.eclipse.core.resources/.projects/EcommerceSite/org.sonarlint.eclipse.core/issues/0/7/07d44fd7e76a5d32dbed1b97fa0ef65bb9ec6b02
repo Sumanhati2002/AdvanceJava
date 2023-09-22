@@ -1,0 +1,22 @@
+
+i
+java:S1128"6Remove this unused import 'com.spring.dao.ProductDao'.(•õ£Ô8ÅŠ¸Şà0H®\RMINORZ
+CODE_SMELL
+}
+java:S44884"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(äèß8Ôë©¸ß0H²\RMINORZ
+CODE_SMELL
+…	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€™¿®şÿÿÿÿ8ø°ºß0H°\RMINORZ
+CODE_SMELL
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(ÿş«Ä8úª§¶â0HÏaRMAJORZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(Éê—8Ãç„ºß0HñaRMAJORZ
+CODE_SMELL
+~
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(›ïáûÿÿÿÿ8ˆ¾‚ºß0H¯\RCRITICALZVULNERABILITY
+~
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(›ïáûÿÿÿÿ8úª§¶â0HÎaRCRITICALZVULNERABILITY
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(Ø¦ˆŞúÿÿÿÿ8‹«¬¸ß0H´\RMAJORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'com.spring.dao.WomenProductDao'.(úÚ£¥8ÓÚÏ·â0HÿbRMINORZ
+CODE_SMELL

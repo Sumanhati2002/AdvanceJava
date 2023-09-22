@@ -1,0 +1,34 @@
+
+f
+java:S6212"/Declare this local variable with "var" instead.(êÈ Ìÿÿÿÿÿ8ÙÉéâÕ0H¶ RINFOZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(‚“Ğüøÿÿÿÿ8Éä”ãÕ0H· RMAJORZ
+CODE_SMELL
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(æÁƒŞ8ÙÉéâÕ0H¸ RBLOCKERZBUG
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÙÉéâÕ0H¹ RBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(úšø‡üÿÿÿÿ8ÙÉéâÕ0Hº RMAJORZ
+CODE_SMELL
+f
+java:S6212"/Declare this local variable with "var" instead.(İ”±ìúÿÿÿÿ8Éä”ãÕ0H» RINFOZ
+CODE_SMELL
+f
+java:S6212"/Declare this local variable with "var" instead.(öÊ¼”ùÿÿÿÿ8ÙÉéâÕ0H¼ RINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(ñú›µ8ÙÉéâÕ0H½ RINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(æÁƒŞ8ÙÉéâÕ0H¾ RINFOZ
+CODE_SMELL
+a
+java:S6212"/Declare this local variable with "var" instead.(‡û¬¯8ÙÉéâÕ0H¿ RINFOZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(£ÏÀûÿÿÿÿ8ÙÉéâÕ0HÀ RMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ÙÉéâÕ0HÁ RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8Éä”ãÕ0HÂ RMAJORZ
+CODE_SMELL

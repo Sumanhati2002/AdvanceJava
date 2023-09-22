@@ -1,0 +1,38 @@
+
+{
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÎÔ‘üúÿÿÿÿH¡ RBLOCKERZBUG
+f
+java:S1161":Add the "@Override" annotation above this method signature(§œ×äH¢ RMAJORZ
+CODE_SMELL
+f
+java:S62125"/Declare this local variable with "var" instead.(´Ê™¯øÿÿÿÿ8Èş±µÙ0H£ RINFOZ
+CODE_SMELL
+^
+java:S4925 "-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¤ RMAJORZ
+CODE_SMELL
+Z
+java:S6212#"/Declare this local variable with "var" instead.(áÈìÉH¥ RINFOZ
+CODE_SMELL
+Z
+java:S6212%"/Declare this local variable with "var" instead.(ÆÑ¯–H¦ RINFOZ
+CODE_SMELL
+o
+java:S2095&"HUse try-with-resources or close this "Connection" in a "finally" clause.(¥êÈœH§ RBLOCKERZBUG
+|
+java:S1192."FDefine a constant instead of duplicating this literal "</h2>" 7 times.(Öº±õ8Æµ¾µÙ0H¨ RCRITICALZ
+CODE_SMELL
+i	java:S106B"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH° RMAJORZ
+CODE_SMELL
+„
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿH± RMINORZVULNERABILITY
+o
+java:S1128	"<Remove this unused import 'javax.servlet.RequestDispatcher'.(Ëöò¼8šƒ§Ù0H² RMINORZ
+CODE_SMELL
+Z
+java:S6212&"/Declare this local variable with "var" instead.(¥êÈœH³ RINFOZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(¤É´øÿÿÿÿ8šƒ§Ù0H´ RMAJORZ
+CODE_SMELL
+Z
+java:S6212$"/Declare this local variable with "var" instead.(ñú›µHµ RINFOZ
+CODE_SMELL

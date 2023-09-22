@@ -1,0 +1,7 @@
+
+‚
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ãøÐµúÿÿÿÿ8–áåˆà0HÈ\RMINORZ
+CODE_SMELL
+Œ
+java:S1128"YRemove this unused import 'org.apache.taglibs.standard.lang.jstl.test.beans.PublicBean1'.(ÀÅ–µ8¼îš²à0HÇ\RMINORZ
+CODE_SMELL

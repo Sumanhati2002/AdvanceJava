@@ -1,0 +1,15 @@
+
+£
+java:S18452"iRename method "viewHome" to prevent any misunderstanding/clash with method "viewhome" defined on line 31.(Ş§ƒûÿÿÿÿ8à—Ù¯á0HÛlRBLOCKERZ
+CODE_SMELL
+n	java:S1258"<This block of commented-out lines of code should be removed.(ËèğÉ8ŠØÛäà0HÜlRMAJORZ
+CODE_SMELL
+n
+java:S1128"6Remove this unused import 'java.net.http.HttpRequest'.(ş€ŠÍşÿÿÿÿ8›’ó®á0HàlRMINORZ
+CODE_SMELL
+‚
+java:S4488A"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¥ïëïıÿÿÿÿ8†‹Òäà0HálRMINORZ
+CODE_SMELL
+
+java:S1192!"FDefine a constant instead of duplicating this literal "index" 4 times.(¦œû×ÿÿÿÿÿ8…’¯á0HãlRCRITICALZ
+CODE_SMELL

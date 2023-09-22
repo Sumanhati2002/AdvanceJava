@@ -1,0 +1,60 @@
+package com.managment;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class LoginServlet extends HttpServlet{
+
+	public void doPost(HttpServletRequest request,HttpServletResponse response) throws ServletException,IOException {
+		
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		
+		//fetch the data from login page
+		
+		String name=request.getParameter("username");
+		String password=request.getParameter("password");
+		
+		try {
+			
+			//load the driver
+			Class.forName("com.mysql.jdbc.Driver");
+			
+			//create the connection
+			String url="jdbc:mysql://localhost:3307/hotel";
+			String username="root";
+			String password1="2000";
+			java.sql.Connection con=DriverManager.getConnection(url,username,password1);
+			
+			//take input from db
+			PreparedStatement ps=con.prepareStatement("select Name,Password from userdata");
+			ResultSet r=ps.executeQuery();
+			
+			while (r.next()) {
+				
+				if (name.equals(r.getString("Name")) && password.equals(r.getString("Password"))) {
+					
+					RequestDispatcher red=request.getRequestDispatcher("menu.jsp");
+					red.forward(request, response);
+				}
+				
+				out.println("something wrong......");
+				break;
+			}
+			
+			
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+		
+	}
+}
